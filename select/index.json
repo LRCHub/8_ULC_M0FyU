@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "トンデモワンダーズ",
   "base_artist": "sasakure.UK",
-  "createdAt": "2025-12-19T12:16:41.673408Z",
+  "createdAt": "2026-03-26T11:42:48.279382Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -125,12 +125,29 @@
       "path": "select/15_トンデモワンダーズ_sasakure.UK.lrc"
     },
     {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "トンデモワンダーズ (有形ランペイジ ver)",
+      "artist": "sasakure.UK",
+      "has_synced": false,
+      "path": "select/16_トンデモワンダーズ_(有形ランペイジ_ver)_sasakure.UK.txt"
+    },
+    {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
       "title": "トンデモワンダーズ",
       "artist": "sasakure.UK",
       "has_synced": false,
       "path": "select/pl_01_トンデモワンダーズ_sasakure.UK.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "トンデモワンダーズ",
+      "artist": "sasakure.UK",
+      "has_synced": true,
+      "path": "select/localdb_01_トンデモワンダーズ_sasakure.UK.lrc",
+      "repo_name": "dBQg24mx45Y"
     }
   ]
 }
